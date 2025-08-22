@@ -5,7 +5,7 @@ I’m an aspiring Threat Hunter with a strong background in diagnostics and prob
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)]([https://github.com/joshmadakor0/threat-hunting-scenario-tor](https://github.com/702alvarez/-threat-hunting-scenario-tor))**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com//702alvarez/-threat-hunting-scenario-tor)**
 
 <hr/>
 
