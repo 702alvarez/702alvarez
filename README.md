@@ -7,6 +7,10 @@ I’m an aspiring Threat Hunter with a strong background in diagnostics and prob
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com//702alvarez/-threat-hunting-scenario-tor)**
 
+## 🕵️ Digital Forensics
+
+- **[Digital Forensic Investigation (Autopsy Case Study)](https://github.com/702alvarez/Digital-Forensic)*
+
 <hr/>
 
 ## 🤳 Connect With Me
