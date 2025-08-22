@@ -1,16 +1,11 @@
 # <a href="https://www.linkedin.com/in/Anthony-Alvar702/">Anthony Alvarez</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I’m an aspiring Threat Hunter with a strong background in diagnostics and problem-solving, now focused on cybersecurity investigations. With a bachelor’s degree in Cybersecurity and hands-on experience in building structured threat hunting projects, I specialize in detecting and analyzing malicious activity using tools like Microsoft Defender for Endpoint and KQL. My projects—such as identifying unauthorized TOR browser usage—demonstrate my ability to track adversary behavior, build timelines, and document findings in a clear, actionable format. I’m passionate about threat detection, response, and continuous learning, with the goal of contributing to a security operations team where I can proactively hunt threats and strengthen defenses. Feel free to explore my portfolio to see how I approach real-world investigations from end to end.
 
-
-## ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)]([https://github.com/joshmadakor0/threat-hunting-scenario-tor](https://github.com/702alvarez/-threat-hunting-scenario-tor))**
 
 <hr/>
 
