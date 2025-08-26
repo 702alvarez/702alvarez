@@ -5,7 +5,7 @@ I’m an aspiring Threat Hunter with a strong background in diagnostics and prob
 
 ## 🛡️ Flagship SOC Lab
 
-- **[Network Detection & Response (NDR) Lab)](https://github.com/702alvarez/ndr-playbook-security-onion)*
+- **[Network Detection & Response (NDR) Lab)](https://github.com/702alvarez/ndr-playbook-security-onion)**
 
 ## 🚨 Threat Hunting and Security Operations
 
