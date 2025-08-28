@@ -6,7 +6,8 @@ I’m an aspiring Threat Hunter with a strong background in diagnostics and prob
 ## 🛡️ Flagship SOC Lab
 
 - **[Flagship-SOC-Lab (Architecture)](https://github.com/702alvarez/Flagship-SOC-Lab)**
-
+- **[Flagship-SOC-Lab (Azure Integration)](https://github.com/702alvarezFlagship-Soc-Lab-Cloud)**
+- 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com//702alvarez/-threat-hunting-scenario-tor)**
