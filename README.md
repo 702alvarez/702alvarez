@@ -14,7 +14,7 @@ I’m an aspiring Threat Hunter with a strong background in diagnostics and prob
 
 ## 🕵️ Digital Forensics
 
-- **[Digital Forensic Investigation (Autopsy Case Study)](https://github.com/702alvarez/Digital-Forensic)*
+- **[Digital Forensic Investigation (Autopsy Case Study)](https://github.com/702alvarez/Digital-Forensic)**
 
 <hr/>
 
