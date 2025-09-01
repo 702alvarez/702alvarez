@@ -10,11 +10,16 @@ I’m an aspiring Threat Hunter with a strong background in diagnostics and prob
   
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com//702alvarez/-threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/702alvarez/-threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Northstar Financials)](https://github.com/702alvarez/atomic-red-team-lab-runs)**
 
 ## 🕵️ Digital Forensics
 
 - **[Digital Forensic Investigation (Autopsy Case Study)](https://github.com/702alvarez/Digital-Forensic)**
+
+## Miscellaneous
+
+- **[Vulnerability Remediations](https://github.com/702alvarez/vulnerability-remediations)**
 
 <hr/>
 
