@@ -2,6 +2,10 @@
 
 I’m an aspiring Threat Hunter with a strong background in diagnostics and problem-solving, now focused on cybersecurity investigations. With a bachelor’s degree in Cybersecurity and hands-on experience in building structured threat hunting projects, I specialize in detecting and analyzing malicious activity using tools like Microsoft Defender for Endpoint and KQL. My projects—such as identifying unauthorized TOR browser usage—demonstrate my ability to track adversary behavior, build timelines, and document findings in a clear, actionable format. I’m passionate about threat detection, response, and continuous learning, with the goal of contributing to a security operations team where I can proactively hunt threats and strengthen defenses. Feel free to explore my portfolio to see how I approach real-world investigations from end to end.
 
+## ⚡ Detection Engineering
+
+- **[Detection as Code(Sigma ➝ KQL)](https://github.com/702alvarez/-detection-as-code-sigma-lab)**
+
 
 ## 🛡️ Flagship SOC Lab
 
